@@ -1,0 +1,6 @@
+ganesh : sdsdfsdf
+ganesh : sdsdfsdf
+anonymous: hello ganesh
+: 
+danger: are kya ho raha hai yaha
+developer: hamari chatroom ban chuki hai
